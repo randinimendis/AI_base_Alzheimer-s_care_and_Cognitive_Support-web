@@ -1,5 +1,9 @@
 import React from "react";
 import { motion } from "framer-motion";
+import ashenImg from "../asset/ashen1.jpeg";
+import randiniImg from "../asset/randini.jpeg";
+import bhagayaImg from "../asset/BH1.jpg";
+import menukaImg from "../asset/menuka.jpg";
 import { Mail, Linkedin, Twitter, Globe, Award, Github } from "lucide-react";
 
 const teamMembers = [
@@ -38,7 +42,7 @@ const teamMembers = [
   {
     name: "Randini Mendis",
     role: "Team Lead ",
-    photo: "src/asset/randini.jpeg",
+    photo: randiniImg,
     email: "randiniemail@gmail.com",
     linkedin: "linkedin.com/in/randini-mendis-375673215",
     // Github: "github.com/randinimendis",
@@ -54,7 +58,7 @@ const teamMembers = [
   {
     name: "Ashen Madusanka",
     role: "Group Member",
-    photo: "src/asset/ashen1.jpeg",
+    photo: ashenImg,
     email: "madhuashen2001@gmail.com",
     linkedin: "linkedin.com/in/ashenmadhu",
     // twitter: "twitter.com/michaelchenai",
@@ -70,7 +74,7 @@ const teamMembers = [
   {
     name: "Bhagya P.S",
     role: "Group Member",
-    photo: "src/asset/BH1.jpg",
+    photo: bhagayaImg,
     email: "sachinibhagya44@gmail.com",
     linkedin: "linkedin.com/in/sachini-bhagya-a11760215",
     twitter: null,
@@ -86,7 +90,7 @@ const teamMembers = [
   {
     name: "Imal Menuka",
     role: "Group Member",
-    photo: "src/asset/MENUKA.JPG",
+    photo: menukaImg,
     email: "imalmenukas210@gmail.com",
     linkedin: "linkedin.com/in/imalmenuka210",
     // twitter: "twitter.com/jwilsontech",
