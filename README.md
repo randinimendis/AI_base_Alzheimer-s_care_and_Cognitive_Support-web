@@ -9,6 +9,8 @@ organization.
 contents (if possible-optional).
 ##### Do not go with slow-loading graphics
 ##### Optimize the graphics you use, by making them smaller and use few colors.
+![Uploading image.png…]()
+
 ### ☑️ Domain
 ### ☑️ Milestones
 ### ☑️ Documents
