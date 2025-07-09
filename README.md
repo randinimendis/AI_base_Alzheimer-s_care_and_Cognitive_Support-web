@@ -13,6 +13,9 @@ contents (if possible-optional).
 
 
 ### ☑️ Domain
+
+![image](https://github.com/user-attachments/assets/9712237a-b96e-40f9-9f40-72ada415544f)
+
 ### ☑️ Milestones
 ### ☑️ Documents
 ### ☑️ Slides of past presentations
