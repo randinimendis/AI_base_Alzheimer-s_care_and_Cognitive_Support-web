@@ -17,6 +17,8 @@ contents (if possible-optional).
 ![image](https://github.com/user-attachments/assets/9712237a-b96e-40f9-9f40-72ada415544f)
 
 ### ☑️ Milestones
+<img width="1886" height="961" alt="image" src="https://github.com/user-attachments/assets/fe57d43d-f639-4bd6-b052-0a623871e6a0" />
+
 ### ☑️ Documents
 ### ☑️ Slides of past presentations
 ### ☑️ About us
