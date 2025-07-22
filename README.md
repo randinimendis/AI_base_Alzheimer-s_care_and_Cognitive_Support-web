@@ -23,6 +23,8 @@ contents (if possible-optional).
 <img width="1898" height="961" alt="image" src="https://github.com/user-attachments/assets/363c8a80-dde2-4f2c-8cb1-7c8fb8fe02d0" />
 
 ### ☑️ Slides of past presentations
+<img width="1895" height="966" alt="image" src="https://github.com/user-attachments/assets/0bc3f096-0a12-46d7-8812-350021ceac8a" />
+
 ### ☑️ About us
 ### ☑️ Contact us
 
