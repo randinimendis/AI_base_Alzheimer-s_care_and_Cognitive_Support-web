@@ -26,5 +26,7 @@ contents (if possible-optional).
 <img width="1895" height="966" alt="image" src="https://github.com/user-attachments/assets/0bc3f096-0a12-46d7-8812-350021ceac8a" />
 
 ### ☑️ About us
+<img width="1898" height="961" alt="image" src="https://github.com/user-attachments/assets/094af5c8-15dc-4848-b33d-dfd54be6e954" />
+
 ### ☑️ Contact us
 
